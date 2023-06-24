@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navi{
+    width: 100%;
+    height: 50px;
+    display:flex;
+    background-color: black;
+    color: white;
+    padding: 30px;;
+}
+h3{
+    margin-left: 3%;
+    width: 60%;
+}
+.navi ul{
+    width: 40%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+form input{
+    width: 1200px;
+}
+table{
+    border: 1px solid gray;
+    
+}
+table>tr>tbody>td{
+    border: 1px solid gray;
+}
